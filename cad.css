@@ -1,0 +1,62 @@
+body{
+
+    margin: 0;
+ 
+ }
+ #main{
+    text-align: center;
+    background-color: rgb(255, 0, 0);
+    border-radius: 10px;
+    width: 700px;
+    height: 400px;
+    margin-top: 300px;
+    margin-left: 600px;
+    box-shadow:    10px 7px 5px rgba(50, 50, 50, 0.77);
+ }
+ #fat2{
+    text-align: center;
+    background-color: rgb(11, 11, 255);
+    border-radius: 10px;
+    width: 436px;
+    height: 293px;
+    margin-left: 147px;
+    margin-top: 30px;
+    box-shadow: 10px 7px 5px rgba(50, 50, 50, 0.77);
+ }
+ #r{
+ 
+    color: red;
+ }
+ #f{
+    background-color: rgb(241, 241, 241);
+    padding-top: 5px;
+    margin-top: 35px;
+    margin-right: 1cm;
+    width: 45%;
+    line-height: 1px;
+    box-shadow: 0;
+ }
+ 
+ section{
+ 
+    margin-top: 50px;
+ }
+ #label{
+    margin-top: -16px;
+    margin-right: 51px;
+    font-family: arial;
+ 
+ }
+ button{
+    margin-right: 21px;
+    margin-top: 32px;
+ }
+ 
+ #two{
+ 
+    margin-top: 40px;
+    width: 45%;
+    margin-right: 35px;
+    line-height: 18px;
+ }
+ 

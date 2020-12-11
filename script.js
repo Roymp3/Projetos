@@ -12,41 +12,49 @@ function operacao(event){
                if (n2 == 8) {
                     resultado = "SP"
                }
-               else if(n2 == 0){
+                if(n2 == 0){
 
                     resultado = "RS"
                }
-               else if(n2 == 1){
+               if(n2 == 1){
 
                     resultado = "Df, GO, MS e TO"
                }
-               else if(n2 == 2){
+                if(n2 == 2){
 
                     resultado = "AM, PA, RR, AP, AC e RO"
                }
-               else if(n2 == 3){
+                if(n2 == 3){
 
                     resultado = "CE, MA e PI"
                }
-               else if(n2 == 4){
+                if(n2 == 4){
 
                     resultado = "PB, PE, AL e RN"
                }
-               else if(n2 == 5){
+               if(n2 == 5){
 
                     resultado = "BA e SE"
                }
-               else if(n2 == 6){
+                if(n2 == 6){
 
                     resultado = "MG"
                }
-               else if(n2 == 7){
+               if(n2 == 7){
 
                     resultado = "RJ e ES"
                }
-               else if(n2 == 9){
+                if(n2 == 9){
 
                     resultado = "PR e SC"
+               }
+                if(n1 == ""){
+
+                    resultado = "Cpf invalido"
+               }
+               if(n1.length < 11){
+
+                    resultado ="Cpf invalido";
                }
 
           }

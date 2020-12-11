@@ -51,9 +51,11 @@ section{
 
 }
 button{
-   margin-right: 21px;
+   margin-right: -8px;
    margin-top: 32px;
    border-radius: 5px;
+   height: 80px;
+   width: 80px;
 }
 
 
